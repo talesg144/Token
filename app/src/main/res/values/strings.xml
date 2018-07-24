@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Teste Cedro</string>
+    <string name="validar">validar</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+</resources>
